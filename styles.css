@@ -8,7 +8,7 @@
 }
 
 body {
-    background: #000000 url('/assets/space.jpg') fixed;
+    background: #000000 url('assets/space.jpg') fixed;
     background-size: cover;
     font-family: 'Courier Prime', monospace;
     color: #00ff00;
