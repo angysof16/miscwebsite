@@ -8,8 +8,10 @@
 ![CSS3](https://github.com/user-attachments/assets/c573b6b4-943a-4ad0-b85c-76311c6a5095)
 ![JavaScript](https://github.com/user-attachments/assets/e96c43e5-273a-49f9-b3be-c61a8071a5b8)
 
+<a href="https://angysof16.github.io/miscwebsite/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/548d5fbd-832c-49da-a81a-caf3da3ae1f8">
+</a>
 
-[View Live Website](https://angysof16.github.io/retro-portfolio)
 </div>
 
 ---
@@ -37,11 +39,12 @@ Instead of creating a modern, minimalist portfolio (like the one I already have)
 
 ## License
 
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/4701dda8-eeac-414a-b89c-9159d227e48c" alt="opencontent" />
+</div>
 Feel free to fork this project and make it your own.
 
 This project is open source and available under the [MIT License](LICENSE).
-
-<img src="https://github.com/user-attachments/assets/4701dda8-eeac-414a-b89c-9159d227e48c" alt="opencontent" />
 
 ---
 
