@@ -14,6 +14,22 @@ document.addEventListener('DOMContentLoaded', function () {
             url: "assets/music/AnotherSpaceSong.mp3" 
         },
         {
+            title: "Mr. Roboto by Styx",
+            url: "assets/music/MrRoboto.mp3" 
+        },
+        {
+            title: "Assassin by The Fearless Flyers",
+            url: "assets/music/Assassin.mp3" 
+        },
+        {
+            title: "Black by Pearl Jam",
+            url: "assets/music/Black.mp3" 
+        },
+        {
+            title: "Sofrito by Mongo Santamaria",
+            url: "assets/music/Sofrito.mp3" 
+        },
+        {
             title: "No Problem by Local H",
             url: "assets/music/NoProblem.mp3"
         },
@@ -22,18 +38,21 @@ document.addEventListener('DOMContentLoaded', function () {
             url: "assets/music/Epiphany.mp3"
         },
         {
-            title: "Forever Night Castle of Love by Këkht Aräkh",
-            url: "assets/music/ForeverNightCastleofLove.mp3"
+            title: "One Last Breath by Creed",
+            url: "assets/music/OneLastBreath.mp3"
         },
         {
-            title: "Tears Don't Fall by Bullet For My Valentine",
-            url: "assets/music/TearsDontFall.mp3"
+            title: "Forever Night Castle of Love by Këkht Aräkh",
+            url: "assets/music/ForeverNightCastleofLove.mp3"
         },
         {
             title: "Plowed by Sponge",
             url: "assets/music/Plowed.mp3"
         },
-        
+        {
+            title: "Caravan by John Wasson",
+            url: "assets/music/Caravan.mp3"
+        },
     ];
 
     let currentSongIndex = 0;
