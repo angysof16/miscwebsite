@@ -1,5 +1,5 @@
 
-# angysof16's misc Portfolio
+# angysof16's Personal Website
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 ![CSS3](https://github.com/user-attachments/assets/c573b6b4-943a-4ad0-b85c-76311c6a5095)
 ![JavaScript](https://github.com/user-attachments/assets/e96c43e5-273a-49f9-b3be-c61a8071a5b8)
 
-<a href="https://angysof16.github.io/miscwebsite/" target="_blank">
+<a href="https://angysof16.github.io/personalwebsite/" target="_blank">
     <img src="https://github.com/user-attachments/assets/548d5fbd-832c-49da-a81a-caf3da3ae1f8">
 </a>
 
@@ -20,7 +20,7 @@
 
 This is my personal portfolio website, inspired by the golden era of the internet: MySpace, SpaceHey, Windows XP/98, and the Y2K webcore movement. 
 
-Instead of creating a modern, minimalist portfolio (like the one I already have), I decided to use the creativity of early 2000s web design with the following features like Windows XP/98 style, Space & Grunge Theme, Interactive Music Section, Gallery & Blinkies.
+Instead of creating a modern, minimalist portfolio (like the one I had), I decided to use the early 2000s web design with features like Windows XP/98 style, Space & Grunge Theme, Interactive Music Section, Gallery & Blinkies.
 <div align="center">
     <img src="https://github.com/user-attachments/assets/df3e1fd9-7006-490a-94b9-eebc3fa423ce" alt="ripwinxp"/>
 </div>
@@ -32,7 +32,7 @@ Instead of creating a modern, minimalist portfolio (like the one I already have)
 
 - **HTML5** - Structure
 - **CSS3** - Styling with animations, transforms, and gradients
-- **Vanilla JavaScript** - Music player functionality
+- **JavaScript** - Music player functionality
 - **Google Fonts** - VT323 and Courier Prime
 
 ---
